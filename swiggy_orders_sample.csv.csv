@@ -1,0 +1,201 @@
+user_id,city,cuisine,order_amount
+U041,Chennai,South Indian,859
+U018,Bangalore,North Indian,242
+U048,Chennai,Fast Food,189
+U038,Mumbai,South Indian,130
+U006,Bangalore,North Indian,617
+U039,Chennai,Fast Food,303
+U046,Delhi,Italian,325
+U029,Delhi,Chinese,928
+U001,Bangalore,Italian,448
+U018,Bangalore,North Indian,881
+U022,Chennai,South Indian,489
+U007,Hyderabad,Chinese,718
+U017,Chennai,Italian,649
+U008,Mumbai,South Indian,665
+U019,Delhi,Chinese,691
+U013,Chennai,South Indian,777
+U015,Hyderabad,South Indian,975
+U015,Chennai,Italian,384
+U030,Hyderabad,North Indian,479
+U023,Bangalore,Chinese,818
+U044,Chennai,Fast Food,750
+U011,Delhi,North Indian,267
+U030,Mumbai,Chinese,755
+U045,Delhi,North Indian,801
+U021,Chennai,North Indian,941
+U003,Hyderabad,Italian,374
+U005,Bangalore,Fast Food,997
+U046,Hyderabad,North Indian,771
+U032,Mumbai,Italian,246
+U017,Bangalore,North Indian,862
+U036,Delhi,Chinese,864
+U038,Mumbai,Fast Food,508
+U024,Bangalore,North Indian,621
+U032,Chennai,South Indian,981
+U008,Bangalore,North Indian,911
+U044,Mumbai,Fast Food,165
+U025,Mumbai,Fast Food,579
+U034,Hyderabad,Fast Food,981
+U001,Chennai,Fast Food,868
+U018,Hyderabad,South Indian,400
+U028,Bangalore,Italian,103
+U047,Hyderabad,Fast Food,880
+U012,Delhi,South Indian,991
+U041,Hyderabad,Fast Food,723
+U013,Bangalore,Chinese,880
+U011,Delhi,Fast Food,100
+U039,Hyderabad,Italian,119
+U008,Hyderabad,Chinese,345
+U004,Bangalore,Fast Food,180
+U006,Mumbai,South Indian,878
+U035,Bangalore,North Indian,775
+U031,Delhi,North Indian,371
+U034,Delhi,Italian,316
+U035,Bangalore,Chinese,508
+U043,Hyderabad,Italian,629
+U029,Chennai,North Indian,330
+U005,Hyderabad,South Indian,702
+U036,Bangalore,Fast Food,325
+U001,Chennai,South Indian,334
+U005,Chennai,Chinese,172
+U033,Bangalore,Chinese,785
+U032,Bangalore,Fast Food,235
+U047,Delhi,Fast Food,584
+U016,Mumbai,Italian,294
+U007,Chennai,Italian,462
+U028,Mumbai,Italian,984
+U047,Chennai,South Indian,162
+U026,Hyderabad,South Indian,354
+U013,Bangalore,Fast Food,559
+U009,Mumbai,North Indian,385
+U030,Bangalore,South Indian,553
+U036,Chennai,South Indian,767
+U035,Chennai,South Indian,871
+U016,Bangalore,Italian,597
+U031,Bangalore,Italian,160
+U011,Mumbai,South Indian,499
+U017,Mumbai,Chinese,533
+U045,Delhi,Italian,258
+U013,Hyderabad,North Indian,159
+U038,Delhi,South Indian,865
+U021,Chennai,South Indian,698
+U031,Delhi,Fast Food,261
+U004,Delhi,South Indian,971
+U012,Chennai,Fast Food,169
+U044,Bangalore,Italian,222
+U037,Bangalore,Fast Food,708
+U003,Delhi,South Indian,529
+U043,Delhi,Fast Food,635
+U021,Hyderabad,North Indian,785
+U046,Hyderabad,North Indian,371
+U026,Bangalore,Chinese,568
+U021,Chennai,South Indian,569
+U040,Delhi,South Indian,175
+U035,Bangalore,Fast Food,371
+U009,Hyderabad,South Indian,1000
+U016,Hyderabad,Chinese,261
+U029,Delhi,Chinese,726
+U042,Delhi,South Indian,783
+U036,Hyderabad,South Indian,999
+U009,Hyderabad,South Indian,209
+U048,Delhi,North Indian,378
+U019,Delhi,North Indian,834
+U022,Bangalore,Chinese,617
+U032,Hyderabad,South Indian,194
+U041,Mumbai,Chinese,145
+U001,Hyderabad,North Indian,752
+U017,Bangalore,Italian,664
+U046,Mumbai,Fast Food,109
+U008,Chennai,North Indian,658
+U003,Hyderabad,Fast Food,665
+U010,Mumbai,North Indian,142
+U020,Hyderabad,South Indian,466
+U014,Bangalore,South Indian,462
+U050,Delhi,Italian,735
+U048,Bangalore,North Indian,985
+U011,Bangalore,Italian,125
+U012,Hyderabad,Italian,921
+U043,Bangalore,Chinese,263
+U045,Chennai,Italian,993
+U003,Mumbai,North Indian,304
+U030,Hyderabad,Chinese,940
+U015,Bangalore,South Indian,775
+U013,Mumbai,Chinese,385
+U005,Hyderabad,Chinese,756
+U033,Mumbai,Fast Food,439
+U002,Chennai,Chinese,282
+U038,Hyderabad,South Indian,211
+U039,Mumbai,Chinese,846
+U021,Mumbai,Fast Food,623
+U008,Mumbai,Fast Food,294
+U017,Chennai,Italian,101
+U034,Delhi,North Indian,472
+U028,Chennai,Chinese,738
+U021,Chennai,Chinese,619
+U020,Mumbai,Chinese,512
+U045,Hyderabad,Fast Food,230
+U013,Mumbai,Italian,793
+U048,Bangalore,Fast Food,682
+U020,Mumbai,Fast Food,953
+U001,Hyderabad,Chinese,315
+U028,Delhi,Fast Food,770
+U021,Mumbai,Italian,552
+U044,Bangalore,Fast Food,584
+U048,Bangalore,South Indian,390
+U033,Delhi,Chinese,195
+U049,Bangalore,Chinese,330
+U013,Bangalore,South Indian,147
+U016,Mumbai,Fast Food,970
+U050,Chennai,Italian,524
+U041,Delhi,North Indian,835
+U045,Mumbai,Italian,509
+U016,Bangalore,South Indian,868
+U050,Chennai,Italian,324
+U012,Delhi,Italian,151
+U036,Bangalore,South Indian,567
+U009,Mumbai,Fast Food,672
+U039,Hyderabad,Italian,727
+U047,Delhi,Italian,950
+U036,Mumbai,North Indian,861
+U031,Mumbai,Chinese,869
+U016,Hyderabad,Fast Food,596
+U041,Bangalore,Chinese,550
+U005,Hyderabad,North Indian,378
+U022,Hyderabad,Fast Food,182
+U009,Bangalore,North Indian,492
+U045,Bangalore,North Indian,165
+U027,Mumbai,Chinese,655
+U030,Mumbai,South Indian,311
+U027,Mumbai,Fast Food,812
+U002,Delhi,Italian,588
+U001,Hyderabad,Chinese,871
+U025,Mumbai,Fast Food,865
+U048,Delhi,Fast Food,325
+U032,Bangalore,Chinese,546
+U032,Chennai,Italian,444
+U043,Mumbai,North Indian,960
+U030,Bangalore,Fast Food,646
+U002,Mumbai,Fast Food,677
+U043,Chennai,South Indian,758
+U028,Bangalore,Italian,286
+U004,Hyderabad,Italian,435
+U014,Mumbai,Chinese,445
+U049,Mumbai,Chinese,870
+U027,Hyderabad,South Indian,581
+U002,Delhi,South Indian,458
+U015,Chennai,South Indian,872
+U002,Bangalore,North Indian,959
+U002,Delhi,North Indian,344
+U009,Mumbai,South Indian,677
+U014,Mumbai,Chinese,885
+U024,Bangalore,Fast Food,721
+U048,Chennai,North Indian,418
+U007,Delhi,South Indian,419
+U037,Mumbai,Italian,832
+U013,Chennai,Fast Food,807
+U041,Bangalore,South Indian,813
+U050,Hyderabad,Fast Food,924
+U008,Delhi,South Indian,455
+U035,Mumbai,Chinese,170
+U033,Hyderabad,South Indian,969
